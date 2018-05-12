@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9144'
     url: http://www.gutenberg.org/2009/agents/9144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20195#Wood-Block-PrintingA-Description-of-the-Craft-of-Woodcutting-and-Colour-Printing-Based-on-the_
 gutenberg_bookshelf:
 - Crafts
 - Art
